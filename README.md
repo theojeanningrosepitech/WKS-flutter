@@ -12,7 +12,7 @@ Le but de ce WorkShop est de réaliser une application capable de récupérer di
   https://api.pexels.com/v1
 
 Pour se faire vous devrez créer un projet en Flutter sur Android Studio.
-Récupérer les données de l'API pexels, sérialiser le JSON et les afficher à l'aide d'un carousel.
+Récupérer les données de l'API pexels, mapper le JSON et les afficher à l'aide d'un carousel.
 
   https://www.pexels.com/fr-fr/api/
   https://www.pexels.com/fr-fr/api/documentation/
